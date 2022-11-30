@@ -9,3 +9,5 @@
 ## 3-listfiles script lists contents in long format
 
 ## 4-listmorefiles script lists contents in long format including hidden contents
+
+## 5-listfilesdigitonly script lists contents in long format including hidden contents and user and group IDs displayed numerically
