@@ -6,4 +6,6 @@
 
 ## 2-bringmehome script takes us to the home directory.
 
-## 3-listfiles script lists contents in long format 
+## 3-listfiles script lists contents in long format
+
+## 4-listmorefiles script lists contents in long format including hidden contents
